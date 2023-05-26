@@ -1,4 +1,4 @@
-# Group Project - Object Detection for CocaCola and Pepsi
+# Group Project - YOLO_Object_detection for cocacola and pepsi
 
 This repository contains the code and documentation for our group project on object detection for CocaCola and Pepsi cans or bottles using computer vision techniques and deploying the trained model to a Raspberry Pi.
 
